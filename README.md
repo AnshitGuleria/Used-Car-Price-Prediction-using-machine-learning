@@ -1,1 +1,1 @@
-# mini_project(temp)
+# Used Car Price Prediction using machine learning
